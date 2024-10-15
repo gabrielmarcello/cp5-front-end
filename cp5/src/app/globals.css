@@ -80,3 +80,8 @@ footer{
   border-left: 0vh;
   border-right: 0vh;
 }
+
+button{
+  width: 100%;
+  height: 100%;
+}

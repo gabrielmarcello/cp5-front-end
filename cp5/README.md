@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Paleta de cores utilizada:
+https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51
+
+
 ## Getting Started
 
 First, run the development server:
